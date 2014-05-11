@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
+  root 'pages#home'
+
   get 'pages/home'
-
   get 'pages/room'
-
   get 'pages/book'
 
   # The priority is based upon order of creation: first created -> highest priority.
