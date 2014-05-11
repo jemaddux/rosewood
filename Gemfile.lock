@@ -48,6 +48,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.1)
     kgio (2.9.2)
+    lorem_tolkien (0.1.0)
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
@@ -122,6 +123,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+  lorem_tolkien
   pg
   rails (= 4.1.1)
   sass-rails (~> 4.0.3)
